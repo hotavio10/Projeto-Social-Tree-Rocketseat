@@ -8,7 +8,7 @@ Projeto Social-Tree
 
 A repository with projects made with HTML and CSS.
 
-[clique aqui para acessar](https://https://hotavio10.github.io/Projeto-Social-Tree-Rocketseat/)
+[clique aqui para acessar](https://hotavio10.github.io/Projeto-Social-Tree-Rocketseat/)
 
 ## Tecnologias
 
